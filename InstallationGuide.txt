@@ -1,0 +1,18 @@
+# 🔧 How to Run InstaPhantom (Step-by-Step)
+
+1. Create a virtual environment:
+   python3 -m venv venv
+
+2. Activate the virtual environment:
+   - On Linux/macOS:
+     source venv/bin/activate
+   - On Windows:
+     venv\Scripts\activate
+
+3. Install the required packages:
+   pip install -r requirements.txt
+
+4. Run the tool:
+   python InstaPhantom.py
+
+✅ That’s it! Enjoy using InstaPhantom.
